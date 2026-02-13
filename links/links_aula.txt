@@ -1,0 +1,6 @@
+## Pagina da Aula
+Se encontre no CoHort Fundamentals aqui:
+https://fundamentals-theta.vercel.app/#/aula/1/fundacao
+
+## NotebookLm da Aula
+https://notebooklm.google.com/notebook/02e00a39-2dbe-4232-971d-e42cb3f5246f?authuser=0&addSource=true
